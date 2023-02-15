@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Our vision and mission.md
       - What we do.md
+      - Our vision and mission.md
