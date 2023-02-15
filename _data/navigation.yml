@@ -1,8 +1,14 @@
 logo: /images/logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
+  - title: Home
+    url: /home
+  - title: About Us
+    collection: about-us
+  - title: Programmes & Partnerships
     collection: example-folder
+  - title: Careers
+    collection: about-us
+  - title: News & Events
+    url: /news-events
+  - title: Contact Us
+    url: /contact-us
