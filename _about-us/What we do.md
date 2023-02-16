@@ -3,5 +3,18 @@ title: What we do
 permalink: /about-us/what-we-do/
 description: ""
 ---
+## What we do
 
+MOH Holdings (MOHH) is the holding company of Singapore’s public healthcare clusters – National University Health System, National Healthcare Group and Singapore Health Services. Sharing the Ministry of Health’s vision to champion a healthy nation and ensure that our people live well, live long and with peace of mind, our role is to enhance public healthcare sector performance by unlocking synergies and economies of scale.  
 
+Our strategies aim to drive optimal performance through sector-level initiatives and addressing system-level gaps. These include:
+
+*   Developing and building regional and community hospitals, specialist centres, polyclinics and nursing homes to prepare for future demand on public healthcare
+*   Providing a system for joint recruitment of healthcare professionals for Singapore’s public healthcare institutions
+*   Developing a national IT framework that facilitates seamless delivery of care to our patients
+*   Operationalising a talent management and HR framework for the entire public healthcare spectrum
+*   Optimising selected finance-related functions within the MOHH Group
+*   Providing corporate advisory and support to MOHH’s subsidiaries, and creating a corporate development system to support future organisational developments in the MOHH Group
+*   Providing strategic and operational Board secretarial support for MOHH’s group of entities
+
+![](/images/client-6.jpg) ![](/images/client-5.jpg)![](/images/client-4.jpg)
