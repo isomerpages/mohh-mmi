@@ -21,8 +21,8 @@ Our strategies aim to drive optimal performance through sector-level initiatives
 `alert("Hello");`
 <center> 
    <a href="http://www.nuhs.edu.sg/" target="_blank">
-     <img src="![](/images/client-6.jpg)" alt="" style="margin-top:0px;margin-bottom:0px;"> </a>
+     <img src="/images/client-6.jpg" alt="" style="margin-top:0px;margin-bottom:0px;"> </a>
    <a href="https://corp.nhg.com.sg/Pages/default.aspx" target="_blank">
-      <img src="![](/images/client-5.jpg)" alt="" style="margin-top:0px;margin-bottom:0px;"></a>
+      <img src="/images/client-5.jpg" alt="" style="margin-top:0px;margin-bottom:0px;"></a>
    <a href="http://www.singhealth.com.sg/Pages/home.aspx" target="_blank">
-      <img src="![](/images/client-4.jpg)" alt="" style="margin-top:0px;margin-bottom:0px;"></a> </center>
+      <img src="/images/client-4.jpg" alt="" style="margin-top:0px;margin-bottom:0px;"></a> </center>
