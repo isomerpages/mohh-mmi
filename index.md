@@ -4,30 +4,38 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: Enhancing public healthcare
+      subtitle: We aim to enhance public healthcare sector performance by unlocking
+        synergies and economies of scale.
+      background: /images/enhancing-public-healthcare.jpg
+      button: Learn More
+      url: /about-us/what-we-do
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Community
+          description: public healthcare sector.
+          url: /about-us/what-we-do
+        - title: Scholars
+          description: Scholarships and internship
+          url: https://www.mohh.com.sg/programmes-partnerships/scholarships
+        - title: Career Opportunities
+          description: "Keen to join healthcare? "
+          url: /careers/career-benefits
   - infobar:
       title: Infobar title
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - resources:
+      subtitle: Useful Links
+      button: Test
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
-
-
