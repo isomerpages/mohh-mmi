@@ -16,9 +16,7 @@ Our strategies aim to drive optimal performance through sector-level initiatives
 *   Optimising selected finance-related functions within the MOHH Group
 *   Providing corporate advisory and support to MOHH’s subsidiaries, and creating a corporate development system to support future organisational developments in the MOHH Group
 *   Providing strategic and operational Board secretarial support for MOHH’s group of entities
-*   
-`var example = "Hello"`
-`alert("Hello");`
+
 <center> 
    <a href="http://www.nuhs.edu.sg/" target="_blank">
      <img src="/images/client-6.jpg" alt="" style="margin-top:0px;margin-bottom:0px;"> </a>
