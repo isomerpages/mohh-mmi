@@ -9,7 +9,7 @@ description: ""
     <tr>
       <th>Name</th>
       <th>Address</th>
-			<th>Vaccine Type</th>
+      <th>Vaccine Type</th>
     </tr>
   </thead>
   <tbody>
