@@ -3,6 +3,12 @@ title: What we do
 permalink: /about-us/what-we-do/
 description: ""
 ---
+<link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
 ## What we do
 
 MOH Holdings (MOHH) is the holding company of Singapore’s public healthcare clusters – National University Health System, National Healthcare Group and Singapore Health Services. Sharing the Ministry of Health’s vision to champion a healthy nation and ensure that our people live well, live long and with peace of mind, our role is to enhance public healthcare sector performance by unlocking synergies and economies of scale.  
@@ -17,10 +23,17 @@ Our strategies aim to drive optimal performance through sector-level initiatives
 *   Providing corporate advisory and support to MOHH’s subsidiaries, and creating a corporate development system to support future organisational developments in the MOHH Group
 *   Providing strategic and operational Board secretarial support for MOHH’s group of entities
 
-<center> 
-   <a href="http://www.nuhs.edu.sg/" target="_blank">
+<div class="row">
+  <div class="column">
+    <a href="http://www.nuhs.edu.sg/" target="_blank">
      <img src="/images/client-6.jpg" alt="" style="margin-top:0px;margin-bottom:0px;"> </a>
-   <a href="https://corp.nhg.com.sg/Pages/default.aspx" target="_blank">
+  </div>
+  <div class="column">
+    <a href="https://corp.nhg.com.sg/Pages/default.aspx" target="_blank">
       <img src="/images/client-5.jpg" alt="" style="margin-top:0px;margin-bottom:0px;"></a>
-   <a href="http://www.singhealth.com.sg/Pages/home.aspx" target="_blank">
-      <img src="/images/client-4.jpg" alt="" style="margin-top:0px;margin-bottom:0px;"></a> </center>
+  </div>
+  <div class="column">
+    <a href="http://www.singhealth.com.sg/Pages/home.aspx" target="_blank">
+      <img src="/images/client-4.jpg" alt="" style="margin-top:0px;margin-bottom:0px;"></a>
+  </div>
+</div>
