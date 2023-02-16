@@ -27,32 +27,32 @@ description: ""
     <tr>
       <td>Geylang Polyclinic</td>
       <td>21 Geylang East Central, Singapore 389707</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+      <td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Toa Payoh Polyclinic</td>
       <td>2003 Lorong 8 Toa Payoh Singapore 319260</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+      <td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>
     <tr>
       <td>Marine Parade Polyclinic</td>
       <td>80 Marine Parade Central, Singapore 440080</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+      <td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>
-		<tr>
+    <tr>
       <td>Kallang Polyclinic</td>
       <td>701 Serangoon Road, Singapore 328263</td>
-			<td> Moderna/Spikevax (6 months to 4 years old)</td>
+      <td> Moderna/Spikevax (6 months to 4 years old)</td>
     </tr> 
-		<tr>
+    <tr>
       <td>Queenstown Polyclinic</td>
       <td>580 Stirling Road, Singapore 148958</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+      <td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>
-		<tr>
+    <tr>
       <td>Clementi Polyclinic</td>
       <td>451 Clementi Avenue 3, #02-307, Singapore 120451</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+      <td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>   
   </tbody>
 </table>
