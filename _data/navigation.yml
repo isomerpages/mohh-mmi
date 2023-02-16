@@ -1,7 +1,7 @@
 logo: /images/logo.jpg
 links:
   - title: Home
-    url: /homeage
+    url: /homepage
   - title: About Us
     collection: about-us
   - title: Programmes & Partnerships
