@@ -3,7 +3,6 @@ title: Home
 permalink: /home/
 description: ""
 ---
-
 ###  **Central**
 <table>
   <thead>
@@ -57,4 +56,3 @@ description: ""
     </tr>   
   </tbody>
 </table>
-
