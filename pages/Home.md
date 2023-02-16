@@ -17,12 +17,12 @@ description: ""
       <td>Outram Polyclinic</td>
       <td> 3 Second Hospital Avenue, #02-00 Health Promotion Board Building,
         Singapore 168937</td>
-			<td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+      <td>Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>	
     <tr>
       <td>Bukit Merah Polyclinic</td>
       <td>162 Bukit Merah Central Level 4, Singapore 150163</td>
-			<td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
+      <td> Pfizer/Comirnaty Bivalent (BA.4/5) (12 years old & above)</td>
     </tr>		
     <tr>
       <td>Geylang Polyclinic</td>
