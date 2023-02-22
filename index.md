@@ -23,16 +23,22 @@ sections:
         - title: Career Opportunities
           description: "Keen to join healthcare? "
           url: /careers/career-benefits
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Med Shield Life
+      button: Click Here
+      alt: Image alt text
+      image: /images/campaign-medishieldlife.jpg
+      url: https://www.moh.gov.sg/content/moh_web/medishield-life.html
+  - infopic:
+      title: Health Hub
+      button: Click Here
+      url: http://www.healthhub.sg/
+      image: /images/campaign-healthhub.jpg
+      alt: Image alt text
+  - infopic:
+      title: Caring for our people
       description: Infopic description
       button: Button Text
+      image: /images/campaign-healthcarebook.jpg
       alt: Image alt text
 ---
