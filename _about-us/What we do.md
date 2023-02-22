@@ -23,7 +23,7 @@ Our strategies aim to drive optimal performance through sector-level initiatives
 *   Providing corporate advisory and support to MOHH’s subsidiaries, and creating a corporate development system to support future organisational developments in the MOHH Group
 *   Providing strategic and operational Board secretarial support for MOHH’s group of entities
 
-<div class="row">
+<div class="row" style="justify-content: center;">
   <div class="column">
     <a href="http://www.nuhs.edu.sg/" target="_blank">
      <img src="/images/client-6.jpg" alt="" style="margin-top:0px;margin-bottom:0px;"> </a>
