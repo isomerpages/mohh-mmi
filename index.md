@@ -29,9 +29,6 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
-  - resources:
-      subtitle: Useful Links
-      button: Test
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
