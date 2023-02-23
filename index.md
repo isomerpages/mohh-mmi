@@ -43,5 +43,4 @@ sections:
       alt: Image alt text
   - resources:
       title: Our Sites
-      button: Click Here
 ---
