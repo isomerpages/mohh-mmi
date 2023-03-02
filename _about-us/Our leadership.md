@@ -5,10 +5,6 @@ description: ""
 ---
 The MOH Holdings Board is appointed by the Ministry of Health (MOH) to guide the company’s strategic efforts to ensure that its direction is in line with national healthcare policies and goals​.​
 
-#### Board of directors
-
-##### CHAIRMAN
-
 <div class="leadership"><h4>Board of directors</h4><h5>
 					Chairman
 					<span class="visible-xs pull-right"></span></h5><div class="member-box pull-center" style="margin-left: auto !important;
