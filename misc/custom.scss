@@ -351,7 +351,7 @@ $desktop: 960px + (2 * $gap) !default;
 	font-size: 16px;
 	font-weight: 700;
 	padding: 12px 0;
-	background: url('../images/membr-arrow-down.jpg') no-repeat left bottom;
+	background: url('/images/membr-arrow-down.jpg') no-repeat left bottom;
 	text-transform: uppercase;
 	margin: 20px 0;font-family: "Open Sans",sans-serif !important;
 }
@@ -362,11 +362,11 @@ $desktop: 960px + (2 * $gap) !default;
 	height: 35px;
 	width: 35px;
 	margin-top: -10px;
-	background-image: url('../images/arrow-down.png');
+	background-image: url('/images/arrow-down.png');
 }
 
 .leadership h5.active span {
-	background-image: url('../images/arrow-right.png');
+	background-image: url('/images/arrow-right.png');
 	margin-top: -17px;
 }
 
