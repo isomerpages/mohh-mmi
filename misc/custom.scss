@@ -407,3 +407,10 @@ $desktop: 960px + (2 * $gap) !default;
 	font-weight: 600;
 	color: #4e4e4e;
 }
+.content .member-box .name {
+    font-size: 14px;
+    font-weight: bold;
+    color: #4e4e4e;
+    margin-bottom: 6px;
+    margin-top: 10px;
+}
