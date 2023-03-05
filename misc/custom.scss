@@ -446,3 +446,154 @@ $desktop: 960px + (2 * $gap) !default;
     margin-left: auto !important;
     margin-right: auto !important;
 }
+//Our Divisions
+/*Our division Page*/
+
+.divisions {
+	padding-bottom: 50px;
+}
+
+.divisions h4 {
+	margin: 40px 0 10px;  
+}
+
+.divisions .listing {	
+	max-width: 90%;
+	width: 100%;
+	margin: 30px auto 70px;
+	background: url('../images/1.jpg') repeat-y center center;
+	color: #fff;
+	font-size: 14px;
+	text-align: center;
+	font-weight: 600;	
+	/*min-height: 440px;*/
+}
+
+.divisions .listing .md {
+	width: 190px;
+	line-height: 70px;
+	border: 1px solid #85837f;
+	border-radius: 2px;
+	margin-bottom: 30px;
+    background-color: #7E7D7C;	
+    transition: background-color 0.5s ease;
+	-webkit-transition: background-color 0.5s ease;
+	-moz-transition: background-color 0.5s ease;
+}
+/*
+.listing ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.listing ul li {
+	float: left;	
+	margin: 6px 0;
+	width: 40%;
+	border-radius: 6px;		
+	background-color: #7E7D7C;	
+    transition: background-color 0.5s ease;
+	-webkit-transition: background-color 0.5s ease;
+	-moz-transition: background-color 0.5s ease;
+}
+
+.listing ul li:hover {
+	background-color: #4F2684;
+	background-image: none ;
+}
+
+.listing ul li.line:hover {	
+	background: transparent url('../images/2.jpg') repeat-x center center;
+
+}
+
+.listing ul li a {
+	color: #f5f5f5;
+	font-size: 13px;
+	text-decoration: none;
+	display: block;
+	padding: 10px 4px;
+}
+*/
+
+span.line1 {
+	float: left;	
+	margin: 6px 0;
+	width: 80%;
+	border-radius: 6px;		
+	background-color: #7E7D7C;	
+    transition: background-color 0.5s ease;
+	-webkit-transition: background-color 0.5s ease;
+	-moz-transition: background-color 0.5s ease;
+}
+
+span.line1:hover {
+	background-color: #4F2684;
+	background-image: none ;
+}
+
+span.line:hover {	
+	background: transparent url('../images/2.jpg') repeat-x center center;
+
+}
+
+span.line1 a {
+  color: #f5f5f5;
+    display: block;
+    font-size: 13px;
+    overflow-wrap: normal;
+    padding: 10px 4px;
+    text-decoration: none;
+}
+
+span.line {
+	background: url('../images/2.jpg') repeat-x center center;
+	width: 20%;
+	min-height: 43px;
+	float:left;
+}
+.listing .leftblock {
+    float: left;
+    width: 50%;
+}
+.listing .rightblock{float:right;width: 50%;}
+
+.line2{float:right!important;}
+
+.top {
+	width: 54px;
+	height: 46px;
+	position: fixed;
+	background: #4f2684;
+	right: 20px;
+	text-align: center;
+	text-decoration: none;	
+	margin-top: -23px;
+	top: 50%;
+	z-index:999;
+}
+
+.top a {
+    color: #fff !important;
+    display: block;
+}
+/*scholarship page*/
+
+.scholar {
+	margin-bottom: 50px;
+}
+
+.scholar ul li {
+	margin: 15px 0 20px;
+}
+
+.scholar ul li span {
+	display: block;
+	font-weight: bold;
+}
+
+.scholar p a,
+.internship p a {
+	color: #7528d9;
+}
