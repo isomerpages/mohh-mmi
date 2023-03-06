@@ -1,4 +1,5 @@
 collections:
   programmes-and-partnerships:
     output: true
-    order: []
+    order:
+      - Scholarships.md
