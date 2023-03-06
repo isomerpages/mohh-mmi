@@ -461,7 +461,7 @@ $desktop: 960px + (2 * $gap) !default;
 	max-width: 90%;
 	width: 100%;
 	margin: 30px auto 70px;
-	background: url('../images/1.jpg') repeat-y center center;
+	background: url('/images/1.jpg') repeat-y center center;
 	color: #fff;
 	font-size: 14px;
 	text-align: center;
@@ -505,7 +505,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .listing ul li.line:hover {	
-	background: transparent url('../images/2.jpg') repeat-x center center;
+	background: transparent url('/images/2.jpg') repeat-x center center;
 
 }
 
@@ -535,7 +535,7 @@ span.line1:hover {
 }
 
 span.line:hover {	
-	background: transparent url('../images/2.jpg') repeat-x center center;
+	background: transparent url('/images/2.jpg') repeat-x center center;
 
 }
 
@@ -549,7 +549,7 @@ span.line1 a {
 }
 
 span.line {
-	background: url('../images/2.jpg') repeat-x center center;
+	background: url('/images/2.jpg') repeat-x center center;
 	width: 20%;
 	min-height: 43px;
 	float:left;
