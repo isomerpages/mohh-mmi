@@ -2,4 +2,5 @@ collections:
   programmes-and-partnerships:
     output: true
     order:
+      - Internships.md
       - Scholarships.md
