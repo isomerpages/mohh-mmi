@@ -118,7 +118,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10486002?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant/ Finance Manager</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>24 Feb 2023 </li>
@@ -128,7 +128,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10479547?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Executive, HR</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>23 Feb 2023 </li>
@@ -138,7 +138,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10478700?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Executive, Accounts Receivable - Admin Support Team (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>23 Feb 2023 </li>
@@ -148,7 +148,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10477997?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Executive, (HR Shared Services)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>23 Feb 2023 </li>
@@ -158,7 +158,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10477832?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Kitchen Assistant (Senja Care Home)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>20 Feb 2023 </li>
@@ -168,7 +168,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10464878?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Executive/Senior Executive (Healthcare Leadership College)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>20 Feb 2023 </li>
@@ -178,7 +178,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10464244?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Finance Manager</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>17 Feb 2023 </li>
@@ -188,7 +188,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10456960?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Executive, Fixed Assets (1 Year Contract)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>17 Feb 2023 </li>
@@ -198,7 +198,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10454569?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Finance Executive, Fixed Asset (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>17 Feb 2023 </li>
@@ -208,7 +208,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10454492?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior Assistant Executive, Accounts Receivable - Receipting</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>17 Feb 2023 </li>
@@ -218,7 +218,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10454487?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Clinical Support Associate (1 year contract)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>17 Feb 2023 </li>
@@ -228,7 +228,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10454363?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Finance Executive, Payroll</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>16 Feb 2023 </li>
@@ -238,7 +238,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10452162?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior/ Assistant Executive, Payroll (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>16 Feb 2023 </li>
@@ -248,7 +248,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10452114?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Community Care Associate</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>15 Feb 2023 </li>
@@ -258,7 +258,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10448824?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior Staff Nurse/ Staff Nurse</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>14 Feb 2023 </li>
@@ -268,7 +268,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10441386?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Manager, Accounts Receivable - Payment Enquiry, 1FSS</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>13 Feb 2023 </li>
@@ -278,7 +278,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10440000?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Transformation and Process Excellence Manager (2 Years Contract, 1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>11 Feb 2023 </li>
@@ -288,7 +288,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10435077?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">HR Executive</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>10 Feb 2023 </li>
@@ -298,7 +298,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10432994?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Manager, Corporate Planning</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>10 Feb 2023 </li>
@@ -308,7 +308,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10431794?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Deputy Director/ Senior/ Assistant Director, Costing &amp; Special Projects</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>10 Feb 2023 </li>
@@ -318,7 +318,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10430554?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Manager / Senior Manager (Operations, Corporate Admin)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>10 Feb 2023 </li>
@@ -328,7 +328,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10429504?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Personal Assistant (PA) to Director</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>10 Feb 2023 </li>
@@ -338,7 +338,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10429431?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Executive (HR Shared Services)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>09 Feb 2023 </li>
@@ -348,7 +348,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10414539?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Executive, Accounts Payable - Payment (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>08 Feb 2023 </li>
@@ -358,7 +358,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10421307?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Executive, Accounts Payable (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>08 Feb 2023 </li>
@@ -368,7 +368,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10421296?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Finance Executive, Accounts Payable (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>08 Feb 2023 </li>
@@ -378,7 +378,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10421218?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior/ Assistant Executive, Accounts Payable – Interco (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>08 Feb 2023 </li>
@@ -388,7 +388,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10421210?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Executive, Accounts Payable - Vendor Master (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>08 Feb 2023 </li>
@@ -398,7 +398,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10421192?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior Finance Executive, Accounts Receivable - (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>08 Feb 2023 </li>
@@ -408,7 +408,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10421159?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Finance Executive, Accounts Receivable (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>08 Feb 2023 </li>
@@ -418,7 +418,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10420961?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Manager/ Senior Executive, Finance</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>07 Feb 2023 </li>
@@ -428,7 +428,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10420115?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Finance Executive, General Ledger (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>07 Feb 2023 </li>
@@ -438,7 +438,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10417811?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior/Assistant Executive, General Ledger (Grants) (1 Year Contract, 1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>07 Feb 2023 </li>
@@ -448,7 +448,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10417802?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior/Assistant Executive, General Ledger (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>07 Feb 2023 </li>
@@ -458,7 +458,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10417782?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior / Executive, HR Partnering – (Cluster Partners)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>06 Feb 2023 </li>
@@ -468,7 +468,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10414505?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Nurse Manager</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>03 Feb 2023 </li>
@@ -478,7 +478,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10404985?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Executive, Accounts Receivable – Sundry Billing (Collections) (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>03 Feb 2023 </li>
@@ -488,7 +488,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10402761?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Executive, Accounts Receivable - Receipting (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>03 Feb 2023 </li>
@@ -498,7 +498,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10402753?fr=CPP/" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Assistant Executive, Accounts Receivable - Collections (1FSS)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>03 Feb 2023 </li>
@@ -508,7 +508,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10402748?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior Finance Executive, Payroll</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>02 Feb 2023 </li>
@@ -518,7 +518,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10401115?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior Finance Executive, Payroll (2 Years Contract)</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>02 Feb 2023 </li>
@@ -528,7 +528,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10401111?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Senior Nurse Manager</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>02 Feb 2023 </li>
@@ -538,7 +538,7 @@ description: ""
                            </ul>
                            <a href="https://www.jobstreet.com.sg/en/job/10399693?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
-                        <div class="jobs clearfix" style="display: none;">
+                        <div class="jobs clearfix" style="opacity: 1;">
                            <h4 xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Executive/ Senior Executive, Finance</h4>
                            <ul class="clearfix" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">
                               <li class="date"><span>Date : </span>01 Feb 2023 </li>
@@ -549,7 +549,7 @@ description: ""
                            <a href="https://www.jobstreet.com.sg/en/job/10396014?fr=CPP" xmlns:ddwrt="http://schemas.microsoft.com/WebParts/v2/DataView/runtime">Learn more <span class="glyphicon glyphicon-play"></span></a>
                         </div>
                      </div>
-                     <div class="holder"><a class="jp-previous jp-disabled">Previous</a><a class="jp-current">1</a><span class="jp-hidden">...</span><a href="#" class="">2</a><a href="#" class="">3</a><a href="#" class="">4</a><a href="#" class="">5</a><span class="jp-hidden">...</span><a>6</a><a class="jp-next">Next</a></div>
+                     <div class="holder" style="display:none;"><a class="jp-previous jp-disabled">Previous</a><a class="jp-current">1</a><span class="jp-hidden">...</span><a href="#" class="">2</a><a href="#" class="">3</a><a href="#" class="">4</a><a href="#" class="">5</a><span class="jp-hidden">...</span><a>6</a><a class="jp-next">Next</a></div>
                      <div class="ms-clear"></div>
                   </div>
                </div>
