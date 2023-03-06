@@ -616,3 +616,18 @@ div#ForResponsive img {
 .ms-rtestate-field {
     word-wrap: break-word;
 }
+.events-table-cell-left {
+    clear: both;
+    display: block;
+    float: left;
+    font-weight: bold;
+    padding-bottom: 8px;
+    padding-right: 10px;
+    width: 190px !important;
+}
+.events-table-cell-right {
+    display: block;
+    float: left;
+    padding-bottom: 8px;
+    width: 580px !important;
+}
