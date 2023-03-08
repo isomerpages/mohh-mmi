@@ -2,4 +2,5 @@ collections:
   admission:
     output: true
     order:
+      - FAQs.md
       - ADMISSION PROCESS.md
