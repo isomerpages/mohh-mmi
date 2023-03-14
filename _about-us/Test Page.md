@@ -3,7 +3,6 @@ title: Test Page
 permalink: /about-us/testpage/
 description: ""
 ---
-
 ![](/images/WhatsApp_Logo_1%20edited.jpg)
 #### [Unsolicited Messages](https://www.mohh.com.sg/NewsEvents/Pages/unsolicited-messages.aspx)
 
@@ -35,4 +34,3 @@ Visit the MOH webpage for the latest updates on the COVID-19 situation. https://
 This year, our MOHH Scholarships team welcomed 189 scholars into the fold at the Healthcare Scholarships Award Ceremony.
 
 [Read more](https://www.mohh.com.sg/NewsEvents/Pages/More-scholars-join-the-healthcare-family.aspx)
-
