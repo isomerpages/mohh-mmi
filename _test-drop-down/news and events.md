@@ -3,7 +3,6 @@ title: news and events
 permalink: /test-drop-down/new-events/
 description: ""
 ---
-
 test head
 	<style>
 	.test{
@@ -31,4 +30,3 @@ test head
 | Test 1 | Test 2 | Test 3 |
 | -------- | -------- | -------- |
 | Abc     | Def     | hij     |
-
