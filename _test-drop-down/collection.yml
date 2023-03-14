@@ -1,4 +1,5 @@
 collections:
   test-drop-down:
     output: true
-    order: []
+    order:
+      - news and events.md
