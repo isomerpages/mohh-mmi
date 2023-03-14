@@ -3,9 +3,7 @@ title: Test Page
 permalink: /about-us/testpage/
 description: ""
 ---
-
-
-| ![](/images/WhatsApp_Logo_1%20edited.jpg) | #### [Unsolicited Messages](https://www.mohh.com.sg/NewsEvents/Pages/unsolicited-messages.aspx)
+| ![](/images/WhatsApp_Logo_1%20edited.jpg)                                                                                                           | #### [Unsolicited Messages](https://www.mohh.com.sg/NewsEvents/Pages/unsolicited-messages.aspx)
 
 **Posted on 30 December 2021**
 
