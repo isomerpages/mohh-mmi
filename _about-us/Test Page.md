@@ -3,14 +3,24 @@ title: Test Page
 permalink: /about-us/testpage/
 description: ""
 ---
-![](/images/WhatsApp_Logo_1%20edited.jpg)
-#### [Unsolicited Messages](https://www.mohh.com.sg/NewsEvents/Pages/unsolicited-messages.aspx)
+
+
+| ![](/images/WhatsApp_Logo_1%20edited.jpg) | #### [Unsolicited Messages](https://www.mohh.com.sg/NewsEvents/Pages/unsolicited-messages.aspx)
 
 **Posted on 30 December 2021**
 
 MOH Holdings (MOHH) has noted WhatsApp messages circulating that claim to be from MOHH or CPF Board. These unsolicited messages contain inaccurate information about CareShield Life, the national long-term care insurance scheme and may contain links to external/fake websites.
 
-[Read more](https://www.mohh.com.sg/NewsEvents/Pages/unsolicited-messages.aspx)
+[Read more](https://www.mohh.com.sg/NewsEvents/Pages/unsolicited-messages.aspx) |
+
+| -------- | -------- | 
+
+| Text     | Text     | 
+
+
+
+
+
 
 ----------------------------------------------------
 ![](/images/MOH-logo.jpg)
