@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - What we do.md
       - Our leadership.md
       - Our divisions.md
       - news and events.md
