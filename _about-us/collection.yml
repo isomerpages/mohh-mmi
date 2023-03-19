@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Test Page.md
       - What we do.md
       - Our vision and mission.md
       - Our leadership.md
