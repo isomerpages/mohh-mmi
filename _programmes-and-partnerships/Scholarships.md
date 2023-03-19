@@ -14,7 +14,7 @@ Here are some of the scholarships we offer:
     
 *   **MOHH–Healthcare Administration Scholarship (HAS) /Singapore-Industry Scholarship (SgIS)** <br/>The HAS (SgIS) is offered, in partnership with the Ministry of Education, to outstanding GCE 'A' level, Diploma students and undergraduates to pursue a local degree in all disciplines such as Business, Accountancy, Economics except for Medicine, Dentistry and other healthcare related disciplines.  
     
-*   **MOHH–Healthcare Graduate Studies Award (HGSA)** The HGSA is offered to final-year undergraduates or recent university graduates who are keen to pursue a Master's degree in selected health science or healthcare-related disciplines such as Audiology, Business Analytics and Clinical Psychology.
+*   **MOHH–Healthcare Graduate Studies Award (HGSA)** <br/>The HGSA is offered to final-year undergraduates or recent university graduates who are keen to pursue a Master's degree in selected health science or healthcare-related disciplines such as Audiology, Business Analytics and Clinical Psychology.
 
 For a full list of scholarships, you may visit [www.healthcarescholarships.sg](https://www.healthcarescholarships.sg/).
 
