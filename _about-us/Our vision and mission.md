@@ -3,8 +3,6 @@ title: Our vision and mission
 permalink: /about-us/our-vision-and-mission/
 description: ""
 ---
-
-
 ### Our vision and mission
 
 ![](/images/vision-mission.jpg)
