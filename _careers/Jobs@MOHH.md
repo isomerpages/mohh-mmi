@@ -14,7 +14,7 @@ description: ""
 #### Assistant Manager, IT Audit (Biz Appln Sys)
 
 **Date** : 03 Mar 2023  
-<br/>**Location** : Central
+**Location** : Central
 <br/>**Exp** : 4 years
 <br/>**Level** : Manager
 <br/>[Learn More](https://www.jobstreet.com.sg/en/job/10500363?fr=CPP)
