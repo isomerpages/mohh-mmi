@@ -1,6 +1,0 @@
-collections:
-  admission:
-    output: true
-    order:
-      - ADMISSION PROCESS.md
-      - FAQs.md
