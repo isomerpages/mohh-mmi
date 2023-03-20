@@ -2,4 +2,4 @@ collections:
   news-events:
     output: true
     order:
-      - Unsolicited messages.md
+      - Unsolicited Messages.md
