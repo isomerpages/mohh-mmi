@@ -1,4 +1,5 @@
 collections:
   news-events:
     output: true
-    order: []
+    order:
+      - Unsolicited messages.md
