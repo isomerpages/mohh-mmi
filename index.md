@@ -20,7 +20,4 @@ sections:
         - title: Scholars
           description: Scholarships and internship
           url: https://www.mohh.com.sg/programmes-partnerships/scholarships
-        - title: ""
-          description: ""
-          url: ""
 ---
