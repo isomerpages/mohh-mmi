@@ -29,10 +29,4 @@ sections:
       alt: Image alt text
       image: /images/campaign-medishieldlife.jpg
       url: https://www.moh.gov.sg/content/moh_web/medishield-life.html
-  - infopic:
-      title: Health Hub
-      button: Click Here
-      url: http://www.healthhub.sg/
-      image: /images/campaign-healthhub.jpg
-      alt: Image alt text
 ---
