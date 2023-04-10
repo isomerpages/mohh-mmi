@@ -35,10 +35,4 @@ sections:
       url: http://www.healthhub.sg/
       image: /images/campaign-healthhub.jpg
       alt: Image alt text
-  - infopic:
-      title: Caring for our people
-      description: Infopic description
-      button: Button Text
-      image: /images/campaign-healthcarebook.jpg
-      alt: Image alt text
 ---
