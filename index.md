@@ -17,7 +17,4 @@ sections:
         - title: Community
           description: public healthcare sector.
           url: /about-us/what-we-do
-        - title: Scholars
-          description: Scholarships and internship
-          url: https://www.mohh.com.sg/programmes-partnerships/scholarships
 ---
