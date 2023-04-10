@@ -41,6 +41,4 @@ sections:
       button: Button Text
       image: /images/campaign-healthcarebook.jpg
       alt: Image alt text
-  - resources:
-      title: Our Sites
 ---
