@@ -20,13 +20,7 @@ sections:
         - title: Scholars
           description: Scholarships and internship
           url: https://www.mohh.com.sg/programmes-partnerships/scholarships
-        - title: Career Opportunities
-          description: "Keen to join healthcare? "
-          url: /careers/career-benefits
-  - infopic:
-      title: Med Shield Life
-      button: Click Here
-      alt: Image alt text
-      image: /images/campaign-medishieldlife.jpg
-      url: https://www.moh.gov.sg/content/moh_web/medishield-life.html
+        - title: ""
+          description: ""
+          url: ""
 ---
