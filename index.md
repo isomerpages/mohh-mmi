@@ -12,7 +12,7 @@ sections:
         synergies and economies of scale.
       background: /images/enhancing-public-healthcare.jpg
       key_highlights:
-        - title: Community
-          description: public healthcare sector.
-          url: /about-us/what-we-do
+        - title: ""
+          description: ""
+          url: ""
 ---
