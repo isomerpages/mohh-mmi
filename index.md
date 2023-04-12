@@ -11,8 +11,4 @@ sections:
       subtitle: We aim to enhance public healthcare sector performance by unlocking
         synergies and economies of scale.
       background: /images/enhancing-public-healthcare.jpg
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
 ---
