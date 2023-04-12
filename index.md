@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: HMPI
+description: HMPI
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
