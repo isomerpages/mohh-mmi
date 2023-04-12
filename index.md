@@ -6,5 +6,6 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
-  - hero: {}
+  - hero:
+      background: /images/hmpi home.png
 ---
