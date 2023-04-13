@@ -1,5 +1,0 @@
-collections:
-  news-events:
-    output: true
-    order:
-      - Unsolicited Messages.md
