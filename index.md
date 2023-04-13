@@ -7,5 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/enhancing-public-healthcare.jpg
+      background: /images/hmpi home new.png
 ---
