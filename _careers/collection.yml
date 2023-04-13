@@ -1,7 +1,0 @@
-collections:
-  careers:
-    output: true
-    order:
-      - Career benefits.md
-      - Employee Value Proposition.md
-      - Jobs@MOHH.md
