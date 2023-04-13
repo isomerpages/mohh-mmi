@@ -1,8 +1,0 @@
-collections:
-  about-us:
-    output: true
-    order:
-      - What we do.md
-      - Our vision and mission.md
-      - Our leadership.md
-      - Our divisions.md
