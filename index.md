@@ -15,5 +15,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/webpage without logo3.jpg
+      background: /images/webpage without logo4.jpg
 ---
