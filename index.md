@@ -15,5 +15,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hmpi home new.png
+      background: /images/webpage.jpg
 ---
