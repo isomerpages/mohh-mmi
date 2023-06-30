@@ -2,44 +2,57 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-Thank you for visiting the MOHH website. This website is owned and maintained by MOHH.
+1.  This website is owned and managed by MOHH.
 
-By accessing, downloading, and using any information, materials, and other items (collectively, the “Materials”) from this website, you agree to the terms and conditions of use (“TOU”) of this website. Other terms of use, as may be indicated to you, may apply upon downloading any Materials from this website or in the event you are redirected to other websites. If you do not agree to the TOU, do not use the website or download any Materials from this website.
+**Collection of Personal Data**
 
-**WARNING**: Unauthorised access or misuse of this website and the Materials contained herein is strictly prohibited. Offenders will be dealt with severely under disciplinary rules and may also be prosecuted under the Computer Misuse and Cybersecurity Act (Cap. 50A). If found guilty, offenders may be sentenced to jail and/or fined. **If you are not authorised to access or use the contents of this website, exit now!**
+2.  In line with MOHH's business operations, MOHH (including its related corporations, subsidiaries, affiliates, and associated companies) may collect and retain, as necessary and to the extent permitted by law, information about individuals, for effective delivery of services to the public and to facilitate its communications within the public and private healthcare sectors. The types of MOHH's business operations may include but may not necessarily be limited to:
 
-  
+*   Day-to-day business and administrative operations of MOHH, including but not limited to employment management, recruitment activities, procurement of products/services
+*   Processing of employment or scholarship applications
+*   Market research and services enhancement
+*   Corporate governance (including internal and company audits) and policy reviews
+*   Security and risk management
+*   Legal and regulatory requirements (including providing assistance to law enforcement, judicial and other government agencies)
+*   Administering and managing relevant relationships to conduct and further the business operations of MOHH
+*   Facilitating communications with individuals in connection with services provided by MOHH
+*   Any other purposes reasonably related to the above
 
-**TERMS AND CONDITIONS OF USE OF THE MOHH WEBSITE**
+3.  MOHH is committed to respecting the privacy of every visitor and user of this website and takes its responsibility to protect any personal information received very seriously and keeps such personal information securely and confidentially to prevent unauthori​sed use.
 
-*   The entire contents of this website, including but not limited to the Materials are owned by or licensed to MOHH and/or MOHH’s contributors, as applicable. Unless otherwise stated, the Materials published on this website are the copyright of MOHH and/or MOHH’s contributors and all the necessary permissions for sharing and use thereof have been obtained accordingly.
-  
-*   **Restrictions on use of Materials**
-    *   Except as otherwise provided in this TOU, the Materials in this website may not be copied, distributed, reproduced, republished, uploaded, transmitted, or otherwise modified in any way, without the prior written permission of MOHH.
-    *   MOHH grants you a revocable, non-exclusive right to access, download, copy, and use the Materials subject to the following conditions:
-        *   The Materials are not used in any misleading way;
-        *   The Materials are not used for the principal purpose of advertising or promoting a particular product or service;
-        *   The Materials have not been specifically indicated to be excluded and are therefore not to be copied or distributed;
-        *   Copying is not done for any commercial purpose including but not limited to trading, building commercial databases, and re-selling the Materials;
-        *   The Materials are not used in a way that suggests any official status or that MOHH endorses you or your use of the Materials;
-        *   The use of Materials does not breach any data protection laws; and
-        *   All copies made are accompanied by the words “copied with the permission of MOH Holdings Pte Ltd. All rights reserved.” You shall not remove, obfuscate, or obliterate any copyright notice that MOHH may include in this website and the contents thereof.
-    *   In the event you wish to re-use the Materials but the proposed re-use would contravene any of the conditions set out in clause 2.2 above, you shall send an email to [info@mohh.com.sg](mailto:info@mohh.com.sg) to determine whether the proposed re-use would be permitted and what, if any, additional conditions may apply. The email should clearly identify the documents and/or information to be re-used and the purpose for such re-use.
-  
-*   **Reliance on the Materials**. This website is provided by MOHH for general information only and MOHH is not in any way involved in providing professional advice. Before relying on this website and the Materials contained herein, you are to do your own checks and/or seek professional advice, as necessary, given that this website may not cover all information specific to your needs.
-  
-*   **Disclaimer of warranty and liability**. The Materials are provided to you on an “AS IS” basis without any warranty of any kind being given. Whilst MOHH undertakes to use reasonable endeavours to ensure the quality and reliability of the Materials, MOHH does not accept any liability and to the maximum extent permitted by law, hereby disclaims any and all warranties, express, implied, or statutory, to the accuracy, completeness, correctness, non-infringement, reliability, timeliness, title, or fitness for any purpose of the Materials contained in this website.
-  
-*   **Use of third party information**. The right granted to you does not cover use of third party rights that MOHH is not authorised to grant. You accept and agree that different terms and conditions may apply to your use of any third party information in this website. MOHH is not liable for any errors and/or omissions in the Materials and shall not be liable for any loss, injury, or damage of any kind caused by their use. Any use of the Materials accessed or downloaded from this website is entirely at your own risk.
-  
-*   **Indemnity**. You agree to hold harmless and to fully indemnify MOHH and/or MOHH contributors, as applicable, from any and all claims, demands, losses, liabilities, costs, and expenses (including but not limited to legal costs) against MOHH arising directly or indirectly from your use of this website, your breach of this TOU, or any infringement claim by any third party resulting in damage and/or loss to MOHH and/or MOHH contributors, as the case may be.
-  
-*   **Security**. MOHH, as appropriate, uses available technology for the protection of the security of any communications made via this website. MOHH does not, however, accept any liability for the authenticity, confidentiality, integrity, and security of any communications and other transactions made through this website. Internet communications may be susceptible to interception or interference by third parties.
-  
-*   **Proprietary rights**. The Materials contained in this website, including all the information and software programmes are protected by copyright, trademark, and other forms of proprietary rights. All rights, title, and interest therein are licensed to and/owned owned and controlled by MOHH.
-  
-*   **Variation**. MOHH reserves the right to revise this TOU at any time it deems fit by updating the TOU page. You should visit this page from time to time and review the current TOU. MOHH may modify any information that forms part of this website any time, without the need of notice to you, and without any liability on the part of MOHH.
-  
-*   **Data Protection Policy**. For full version of this website’s Data Protection Policy, click [here](/privacy).
-  
-*   **Governing law**. This TOU shall be governed by and construed in accordance with the laws of the Republic of Singapore. You irrevocably agree that the Singapore courts shall have exclusive jurisdiction in relation to any dispute arising from or relating to this TOU and for such purposes, irrevocably submit to the jurisdiction of the Singapore courts. MOHH reserves the right to commence or maintain any proceedings for such dispute in the court of any country claiming or having jurisdiction in respect thereof and you irrevocably waive any objections you may have to such proceedings being brought before any such court.​
+4.  In order to serve the visitors and users of this website in an efficient and effective manner, MOHH implements reasonable measures and maintains appropriate security technologies for the protection and proper safeguarding of every personal data as provided by the visitors and users of this website.
+
+5.  In any event the visitors and users of this website provide MOHH with any personal data belonging to and/or relating to a third person (e.g., information about spouse, children, parents, employees, etc.) by submitting any such information to MOHH, said visitors and users of this website represent that they have obtained the relevant consent of any such third person to provide MOHH with their personal data.
+
+6.  For the avoidance of doubt, this policy is not intended to supersede or replace any consent previously provided to MOHH.
+
+**Sharing and Disclosure of Personal Data**
+
+7.  Personal data collected by MOHH may be shared with the Ministry of Health, the relevant regulatory authority for healthcare professionals, statutory bodies, and public agencies for the purpose of complying with their respective requirements, policies, and directives.
+
+8.  Any personal data provided to MOHH may also be shared among MOHH's appointed service providers performing data processing services to MOHH and authorised third party organisations providing and/or administering various MOHH programmes and schemes.
+
+9.  MOHH ensures that the organisations mentioned in paragraph 7 above with which personal data provided to MOHH may be shared, adhere to and observe adequate and reasonable data protection safeguards and measures in place.
+
+**Use of Personal Data**
+
+10.  MOHH will not use any such personal data collected for purposes other than what MOHH has informed the visitors and users of this website pursuant to MOHH's data protection policy and as permitted under the applicable laws and regulations.
+
+**Retention of Personal Data**
+
+11.  MOHH will retain your personal data for as long as required for legal and business needs/requirements.
+
+**Miscellaneous**
+
+12.  This website may contain links to other websites with data protection policies, which may be different from MOHH's data protection policy in place. MOHH takes no responsibility whatsoever for the contents and data protection policies of these other websites. The visitors and users of the MOHH website are therefore, encouraged to consult the respective data protection policies of those other websites.
+
+13.  MOHH reserves the right to revise and update this data protection policy at any time. The content presented on this page is considered the latest version. Should any modification to this data protection policy occur, MOHH will post the updated version on the page in order that the visitors and users of this website are always made aware of how MOHH safeguards the personal data shared.
+
+**Access to and Correction of Personal Data / Withdrawal of Consent**
+
+14.  Visitors and users of this website may contact MOHH's Data Protection Officer by email at [mohh.dpo@mohh.com.sg](mailto:mohh.dpo@mohh.com.sg) if they:
+
+*  wish to rectify any incorrect or out-of-date personal data previously provided to MOHH;
+*   intend to withdraw any consent previously given to MOHH to collect and retain any such personal data;
+*   have any questions or feedback relating to any personal data shared with MOHH; or
+*   require more information regarding MOHH's data protection policy.
