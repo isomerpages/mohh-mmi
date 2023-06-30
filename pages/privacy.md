@@ -6,7 +6,7 @@ permalink: /privacy/
 
 **Collection of Personal Data**
 
-2.  In line with MOHH's business operations, MOHH (including its related corporations, subsidiaries, affiliates, and associated companies) may collect and retain, as necessary and to the extent permitted by law, information about individuals, for effective delivery of services to the public and to facilitate its communications within the public and private healthcare sectors. The types of MOHH's business operations may include but may not necessarily be limited to:
+<li value="2">In line with MOHH's business operations, MOHH (including its related corporations, subsidiaries, affiliates, and associated companies) may collect and retain, as necessary and to the extent permitted by law, information about individuals, for effective delivery of services to the public and to facilitate its communications within the public and private healthcare sectors. The types of MOHH's business operations may include but may not necessarily be limited to:</li>
 
 *   Day-to-day business and administrative operations of MOHH, including but not limited to employment management, recruitment activities, procurement of products/services
 *   Processing of employment or scholarship applications
@@ -50,7 +50,7 @@ permalink: /privacy/
 
 **Access to and Correction of Personal Data / Withdrawal of Consent**
 
-14.  Visitors and users of this website may contact MOHH's Data Protection Officer by email at [mohh.dpo@mohh.com.sg](mailto:mohh.dpo@mohh.com.sg) if they:
+14.  Visitors and users of this website may contact MOHH's Data Protection Officer by email&nbsp;at&nbsp;[mohh.dpo@mohh.com.sg](mailto:mohh.dpo@mohh.com.sg)&nbsp;if they:
 
 *  wish to rectify any incorrect or out-of-date personal data previously provided to MOHH;
 *   intend to withdraw any consent previously given to MOHH to collect and retain any such personal data;
