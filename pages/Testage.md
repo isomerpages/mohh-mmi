@@ -41,4 +41,8 @@ description: ""
 <blockquote>
 <p>test</p>
 </blockquote>
+<blockquote>
+<p>test 2</p>
+<p></p>
+</blockquote>
 <p></p>
