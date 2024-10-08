@@ -46,7 +46,7 @@ description: ""
 <p>test 2</p>
 <p></p>
 </blockquote>
-<table style="minWidth: 75px">
+<table style="minWidth: 75px;border: none;">
 <colgroup>
 <col>
 <col>
