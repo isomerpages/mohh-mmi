@@ -4,6 +4,14 @@ permalink: /teatage/
 variant: markdown
 description: ""
 ---
+<style class="text/css">
+	.hidelines{
+	style="border: none !important;"
+	}
+	.content table td, .content table th {
+	style="border: none !important;"
+	}
+	</style>
 <p>Test</p>
 <p><strong>Population Health Research Grant New Investigator Grant</strong>  <strong>02 Jan 2024 - 31 Jan 2024</strong>
 </p>
@@ -46,7 +54,7 @@ description: ""
 <p>test 2</p>
 <p></p>
 </blockquote>
-<table style="minWidth: 75px;border: none;">
+<table style="minWidth: 75px;border: none !important;">
 <colgroup>
 <col>
 <col>
@@ -54,18 +62,18 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th style="border: none !important;" rowspan="1" colspan="1">
 <p>SNO</p>
 </th>
-<th rowspan="1" colspan="1">
+<th style="border: none !important;" rowspan="1" colspan="1">
 <p>Item</p>
 </th>
-<th rowspan="1" colspan="1">
+<th class="hidelines" rowspan="1" colspan="1">
 <p>Descrition</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td style="border: none !important;" rowspan="1" colspan="1">
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
