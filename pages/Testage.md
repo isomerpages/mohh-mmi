@@ -1,11 +1,13 @@
 ---
 title: Testage
 permalink: /teatage/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<div style="font-family:'Open Sans', sans-serif;font-size:50px;color:red;">Test</div>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S6a8c4AEgWQ?si=mce-1E9kdFLo9Q3u" height="315" width="560"></iframe>
+<p>Test</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/S6a8c4AEgWQ?si=mce-1E9kdFLo9Q3u"></iframe>
+</div>
 <p><strong>Population Health Research Grant New Investigator Grant</strong>  <strong>02 Jan 2024 - 31 Jan 2024</strong>
 </p>
 <p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Find Out More</a>
@@ -47,7 +49,7 @@ description: ""
 <p>test 2</p>
 <p></p>
 </blockquote>
-<table style="minWidth: 75px;border: none !important;">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -55,18 +57,18 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th style="border: none !important;" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>SNO</p>
 </th>
-<th style="border: none !important;" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Item</p>
 </th>
-<th class="hidelines" rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p>Descrition</p>
 </th>
 </tr>
 <tr>
-<td style="border: none !important;" rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
