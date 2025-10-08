@@ -18,7 +18,8 @@ contacts:
   - content:
       - phone: +65 6622 0980
       - email: mohh.medmal@mohh.com.sg
-      - other: <a href="https://www.hmpi.sg">https://www.hmpi.sg</a>
+      - other: '<a style="text-decoration: underline;"
+          href="https://www.hmpi.sg">https://www.hmpi.sg</a>'
     title: General Enquiries & Feedback
 feedback: ""
 ---
